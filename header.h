@@ -13,8 +13,8 @@ class Character;
 Character create_character(){
     Character new_character;
     string name;
-    int role;
-    int race;
+    role role;
+    race race;
     cout<<"Welcome to the character creation screen!"<<endl;
 
     // Name selection
